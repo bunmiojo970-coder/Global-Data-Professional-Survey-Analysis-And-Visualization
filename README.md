@@ -18,10 +18,22 @@ The aim of this analysis is to identify trends in salary expectations and career
 
 # Skills/Tools Used:
 
-Power BI: IF functions, filters, Remove Duplicates, Replace tools, Pivot Tables, Charts and Slicers.
+Power BI: Remove Columns, Split by delimiter(here, the delimiter was under custom and it was the first part of a bracket or open bracket, Colon was also use as a delimiter to separate another column),Split by Digit to Non-Digit, Replace Values, Add Custom Column with formula
+=([#"Q3 - Current Yearly Salary (in USD) - Copy.1"] + [#"Q3 - Current Yearly Salary (in USD) - Copy.2"]) /2),
+filters, Duplicate Column, Replace tools, Pivot Tables, Charts and Slicers.
 
 # Results/Key Insights:
 
+Globally, through the survey,it was mostly very easy to break into Data which was up to 23.49% while most data professionals, mostly Data Analysts, prefer Python. Also, the average global age of Data Professionals is approximately 30 years. 
+Globally, through the survey, happiness with Work/life balance is just above average which is at 5.74 while happiness with Salary just below average at 4.27.
+
+The United States had the highest average yearly salary possible which was for Data Scientists at $130,000. The US also had the highest level of happiness with work/life balance and salary which were at 6.38 and 5.00 respectively.
+
+It was mostly very easy for the Canadian Survey participants to break into Data whixh was at 43.42% which was the highest compared to the other countries. Canada also had a really high happiness with work/life balance at 6.06.
+
+India survey participants revealed a really low happiness with work/life balance and salary at 4.79 and 3.51 respectively.
+
+The UK 
 
 # Business Recommendations:
 
@@ -29,7 +41,7 @@ Power BI: IF functions, filters, Remove Duplicates, Replace tools, Pivot Tables,
 
 # Next Steps:
 
-1. Measure emails and texts open and & click rates.
-2. Track social media advertisement performance for engagement or positive responses.
-3. Train the customers on making the most of the bikes for maintenance, safety and also on new features.
-4. Train Customer Service or bike sales attendants at the bike sales company to polish their customer service skills.
+1. Increase the sample size for global data professional survey by reaching out to more data professionals to take the survey to get a wider and a more accurate view on the career experiences in this field.
+2. More Awareness on the Data Professions should be created for the younger generation (for teenagers to early twenties) for those that would be interested to start early and develop in this field earlier in life with more experiences leading to better salaries and better and bigger opportunities with amazing benefits opening up for them earlier leading to a higher happiness with work/life balance.
+
+   
