@@ -2,39 +2,30 @@
 
 # Executive Summary:
 
-Using Microsoft Power BI, I cleaned the Bike Buyers dataset and created an interactive dashboard using Slicers and Pivot Tables to pull out key insights and findings. Since the major aim is to maximize profit through bike sales, increasing the patronage of customers with a Bachelors and Graduate Degree for males or females, married or single since they generally have a higher average income per purchase which makes affordability easier and can easily lead to a higher frequency of purchase. Increasing the customers within 0 - 1 miles commute distance will also help to maximize profit for the bike sales company since they had the highest count of purchased bikes. To maximize profits through the above increase, I recommend that the marketing strategy team implement the following:
+Using Microsoft Power BI, I transformed and visualized the global data professional survey dataset creating an interactive dashboard using charts and filters to identify trends in salary expectations and career experiences, delivering insights in order to highlight key areas for industry improvement.
 
-1. Social Media Advertisement with filters to focus on reaching prospective customers within 0 - 1 miles Commute Distance and customers with Bachelors and Graduate Degree Education.
-2. Send Discounts or other rewards or gifts or promos information via emails or texts for previous customers.
-3. Better Client Relationships through quality on-site customer service. 
+
 
 # Business Problem:
 
-The general dream of any business is to maximize profit and expand as much as possible. Several columns of information about bike buyers have been provided for us by the Bike Sales Company. How do we make the most of that information to find gaps that can be corrected to maximize the profit and also expand the business?
+The aim of this analysis is to identify trends in salary expectations and career experiences, delivering insights in order to highlight key areas for industry improvement.
+
 
 # Methodology:
 
-1. Data Cleaning and Transformation with Excel Functions and Tools that improved dataset consistency.
-2. Pivot Tables, Charts and Slicers creating an interactive dashboard which enhanced visualization and communication of key data insights to stakeholders.
+1. Data Cleaning and Transformation with Functions and Tools that improved dataset consistency.
+2. Charts creating an interactive dashboard which enhanced visualization and communication of key data insights to stakeholders.
 
 # Skills/Tools Used:
 
-Excel: IF functions, filters, Remove Duplicates, Replace tools, Pivot Tables, Charts and Slicers.
+Power BI: IF functions, filters, Remove Duplicates, Replace tools, Pivot Tables, Charts and Slicers.
 
 # Results/Key Insights:
 
-The married males that purchased bikes had the highest income with approximately $61,000. Overall, the highest number of customers that purchased bikes had a commute distance that fell in the range 0 -1 miles and the lowest had a commute distance of more than 10 miles. The middle age customers within the ages of 31 to 54 purchased the highest number of bikes. North America specifically had the highest number of customers that purchased bikes fall under the commute distance of 2-5 miles. The pacific had the highest number of bike buyers fall under the commute distance of 5-10 miles. For bike buyers with Bachelors degree, the females buyers with income of approximately $62,000 had the highest income while the males and females with larger income of approximately $66,000 and $67,000 respectively did not purchase bikes. 
 
 # Business Recommendations:
 
-Increase the patronage of customers with Bachelors and Graduate Degree Education and also the customers within 0-1 miles commute distance through the following:
 
-1. Social Media Advertisement with filters to focus on reaching prospective customers within 0 - 1 miles Commute Distance and customers with Bachelors and Graduate Degree Education.
-2. Send Discounts or other rewards or gifts promos information via emails or texts for previous customers
-3. Better Client Relationships through quality on-site customer service. 
-
-# Interactive Dashboard Link:
-https://excel.cloud.microsoft/open/onedrive/?docId=E0EA134A5C31B2D0%21s5837a0b79d9d456ca46887a2dcb08857&driveId=E0EA134A5C31B2D0
 
 # Next Steps:
 
