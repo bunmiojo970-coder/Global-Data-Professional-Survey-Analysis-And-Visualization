@@ -38,7 +38,7 @@ India's survey participants revealed a really low happiness with work/life balan
 
 # Next Steps:
 
-1. Increase the sample size for global data professional survey by reaching out to more data professionals to take the survey to get a wider and a more accurate view on the career experiences in this field.
-2. More Awareness on the Data Professions should be created for the younger generation (for teenagers and to youths in their early twenties) ,for those that would be interested, to start early and develop in this field earlier in life which leads to more experiences and to better salaries, better and bigger opportunities with amazing benefits opening up for them while they are much younger leading to a higher happiness with work/life balance.
+1. Increase the sample size for global data professional survey by reaching out to more data professionals to take the survey to get a wider and a more accurate view on the career experiences in this field because in this project, we only 630 survey takers.
+2. More Awareness on the Data Professions should be created for the younger generation (for teenagers and the youths in their early twenties) ,for those that would be interested, to start early and develop in this field earlier in life which leads to more experiences and to better salaries, better and bigger opportunities with amazing benefits opening up for them while they are much younger leading to a higher happiness with work/life balance.
 
    
